@@ -1,1 +1,1 @@
-# RealWaste-Modeling
+# Solid Waste Management Modeling
