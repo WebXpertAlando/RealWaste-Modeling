@@ -5,6 +5,9 @@
 # Introduction.
 Waste management involves the collection, transportation, treatment, and disposal of waste to minimize its impact on the environment and human health. It covers various waste types, including municipal solid waste, hazardous waste, industrial waste, and e-waste. The goal is to reduce waste generation and promote sustainability through recycling, reusing, and proper disposal. Key strategies include the waste hierarchy, which prioritizes prevention and recycling, and the circular economy, which focuses on maximizing the use of resources. Effective waste management is vital for sustainable development, conserving natural resources, and reducing pollution for a cleaner environment.
 
+# Group Members
+
+
 # Problem Statement
 At TakaTaka Solutions, waste is classified into eight categories: Plastic, metal, food organics, vegetation, miscellaneous trash, textiles, glass and paper. The manual process of sorting waste introduces errors, such as misclassifying items, leading to inefficiencies in recycling operations and increased waste sent to landfills. There is a pressing need for an automated system that can accurately classify waste images into these categories, reducing human error and improving the overall recycling rate.
 
