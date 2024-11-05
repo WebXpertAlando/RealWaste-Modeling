@@ -1,4 +1,5 @@
 # Solid Waste Management Modeling
+![PROJECT TITLE](https://github.com/user-attachments/assets/8fd55f77-592d-4315-9cbc-aa0cc5e317b3)
 
 
 # Introduction.
